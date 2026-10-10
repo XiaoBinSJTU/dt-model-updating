@@ -1,0 +1,44 @@
+# Local review deliverables
+PUBLIC_RELEASE_REPORT.md
+PROFILE_LINK_SNIPPET.md
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Data, weights, results, and runtime residue
+Data/
+data/
+outputs/
+results/
+logs/
+checkpoints/
+*.csv
+*.mat
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.parquet
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+*.log
+*.tmp
+*.bak
+
+# Credentials, editors, and private repository state
+.env
+.env.*
+*.pem
+*.key
+.git/
+.idea/
+.vscode/

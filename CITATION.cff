@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this research reference implementation, please cite the associated paper."
+title: "Model Updating for Digital Twin-Driven Industrial Equipment Monitoring: Core Implementation"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Xiao
+    given-names: Bin
+url: "https://github.com/XiaoBinSJTU"
+preferred-citation:
+  type: article
+  title: "Model updating approach for digital twin-driven industrial equipment monitoring"
+  authors:
+    - family-names: Xiao
+      given-names: Bin
+    - family-names: Chen
+      given-names: Liang
+    - family-names: Zhou
+      given-names: Xiaofeng
+    - family-names: Zhong
+      given-names: Jingshu
+    - family-names: Wang
+      given-names: Zixing
+    - family-names: Qiu
+      given-names: Siqi
+    - family-names: Zheng
+      given-names: Yu
+  journal: "Advanced Engineering Informatics"
+  volume: 74
+  year: 2026
+  doi: "10.1016/j.aei.2026.104678"
